@@ -1,1 +1,1 @@
-javascript:alert("Testing to see if this works")
+javascript:alert("Testing to see if this works");alert("OK, this does work. I am just going to try a few different things with this code since I am still kind of new to it.");prompt("hello there! making sure i got prompt right.
